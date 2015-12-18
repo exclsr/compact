@@ -2,7 +2,7 @@
   "author": "Paul Serby <paul@serby.net>",
   "name": "compact-exclsr",
   "description": "A JavaScript compacting middleware for express",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "repository": {
     "type": "git",
     "url": "git://github.com/exclsr/compact.git"
